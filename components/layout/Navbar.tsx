@@ -64,7 +64,7 @@ export default function Navbar() {
               </motion.a>
             ))}
             <motion.a
-              href="/resume/joyram0401.pdf"
+              href="/resume/JoyRamDas_Resume.pdf"
               download="Joy_Ram_Das_Resume.pdf"
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
